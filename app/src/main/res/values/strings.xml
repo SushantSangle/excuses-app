@@ -1,3 +1,18 @@
 <resources>
     <string name="app_name">Excuses App</string>
+    <string name="title_activity_new_excuse">NewExcuse</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="first_fragment_label">First Fragment</string>
+    <string name="second_fragment_label">Second Fragment</string>
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="hello_second_fragment">Hello second fragment. Arg: %1$s</string>
+    <string name="random">Random</string>
+    <string name="family">Family</string>
+    <string name="office">Office</string>
+    <string name="children">Children</string>
+    <string name="college">College</string>
+    <string name="next_excuse">Next Excuse</string>
 </resources>
