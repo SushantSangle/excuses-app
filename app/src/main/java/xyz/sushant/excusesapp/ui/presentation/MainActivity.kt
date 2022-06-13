@@ -1,4 +1,4 @@
-package xyz.sushant.excusesapp
+package xyz.sushant.excusesapp.ui.presentation
 
 import android.annotation.SuppressLint
 import android.os.Bundle
@@ -12,6 +12,7 @@ import kotlinx.coroutines.withContext
 import retrofit2.Call
 import retrofit2.Callback
 import retrofit2.Response
+import xyz.sushant.excusesapp.R
 import xyz.sushant.excusesapp.base.network.ApiClient
 import xyz.sushant.excusesapp.databinding.ActivityNewExcuseBinding
 import xyz.sushant.excusesapp.domain.entities.Excuse
