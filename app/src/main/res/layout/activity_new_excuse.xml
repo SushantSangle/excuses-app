@@ -95,11 +95,4 @@
             </RadioGroup>
         </LinearLayout>
     </ScrollView>
-
-    <RadioButton
-        android:id="@+id/college"
-        style="@style/Theme.MyApplication.RadioButton"
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        android:text="@string/college" />
 </androidx.coordinatorlayout.widget.CoordinatorLayout>

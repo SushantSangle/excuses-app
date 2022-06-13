@@ -15,4 +15,7 @@
     <string name="children">Children</string>
     <string name="college">College</string>
     <string name="next_excuse">Next Excuse</string>
+    <string name="enter_name">Enter Name</string>
+    <string name="save">SAVE</string>
+    <string name="username">Username Input</string>
 </resources>
